@@ -41,3 +41,7 @@
   
   Contact me here at GitHub: https://github.com/blee241 <br>
   Or here via email: thisisbryant@gmail.com
+
+  ## Attribution
+  
+  The starter code can be found here: https://github.com/coding-boot-camp/fantastic-umbrella
