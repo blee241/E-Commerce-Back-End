@@ -20,6 +20,8 @@
 
   ## Usage
 
+[Uploading Desktop Recording - June 9, 2023 4_01 PM.webm…]()
+
   Since this application mimics the back end of a website, Insomnia will need to be used to interact with the database. Different types of RESTful API calls can be made through Insomnia.
 
   ## License
